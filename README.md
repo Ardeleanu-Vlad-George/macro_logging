@@ -1,6 +1,7 @@
 # Purpose
 Developing a tiny prototype of a 'logging' library that can write the line of code being executed and it's effects on the variables of the
- program. You remember doing such a library once, but lost it when your last hard disk got corrupted.
+ program. You remember doing such a library once, but lost it when your last hard disk got corrupted. It's saved on GitHub also, to prevent
+ such nonsense.
 # Bonus
 None.
 # MadeWith
